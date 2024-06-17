@@ -1,0 +1,101 @@
+*{color: red;
+    font-size:48;
+    padding:10px;
+    border: 5px solid black;
+    margin: 2px;
+}
+
+body {
+    color: rgb(40, 136, 40);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(241, 224, 201);
+
+    padding:10px;
+    border: 5px solid black;
+    margin: 20px;
+
+}
+
+h1{
+    font-size:72px;
+    font-weight: lighter;
+    text-align:center;
+    text-decoration:underline;
+}
+
+
+h3 {
+    font-size: 12px;
+    font-weight:lighter;
+    font-family: ' brush script mt ';
+}
+
+h2{
+    font-size: 50px;
+    font-weight:bolder;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+h1, h2, h3, h4, h5, h6 { 
+    font-family: 'brush script mt';
+    color: black;
+
+    padding:10px;
+    border:5px solid black
+    margin:100px;
+    border-radius:30px;
+}
+
+#topid{
+    color: grey;
+}
+.whitebackgroundbox{background-color:rgba(85, 65, 21, 0.785);
+font-size:18px;
+}
+.backgroundimageclimb{
+background-image:url("../images/repel.jpg");
+background-repeat:repeat;
+background-size:20px;
+opacity:50%;
+}
+
+.container{
+background-color: lightgrey;
+border: 20px;
+border-color:black;
+border-style: solid;
+}
+
+.header{
+background-color:lightgrey;
+border: 5px solid black;
+
+}
+
+.leftmenu {
+    background-color:lightgrey;
+    border: 5px solide black;
+    float: left;
+    width: 18%;
+}
+.mainbody{
+    background-color: lightgray;
+    border: 5px solid black;
+    float: left;
+    width: 30%;
+}
+
+
+.rightmenu { background-color: lightgreyborder;
+border: 5px solid black;
+float: right;
+width: 18%;
+}
+
+.footer{
+    .background-color: lightgrey;
+    border: 5px solid black;
+    margin-top: 95%;
+    margin-bottom: 0px;
+    /*
+}
